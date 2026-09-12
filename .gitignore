@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Datasets and large media
+CatFLW dataset/
+test-vid/
+*.mp4
+*.avi
+*.mov
+
+# Model checkpoints and weights
+*.pt
+*.pth
+*.onnx
+outputs/
+
+# OS / Editor artifacts
+.DS_Store
+.vscode/
+.idea/
+.git_backup/
